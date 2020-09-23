@@ -1,3 +1,5 @@
+Gatsby.jsの学習のため、[こちら](https://zenn.dev/tomokiya/books/4b13342f6d878b93e06c)を写経しています。
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
