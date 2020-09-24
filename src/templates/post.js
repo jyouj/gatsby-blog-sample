@@ -5,6 +5,7 @@ import SEO from '../components/seo';
 
 export default function Post({ pageContext }) {
     const { title, updatedAt, image } = pageContext.post;
+    const description = pageContext.post.description.description;
     const body = pageContext.post.body.childMarkdownRemark.html;
 
     return (
